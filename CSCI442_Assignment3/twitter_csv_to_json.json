@@ -1,18 +1,6 @@
 {
     "Tweets": [
         {
-            "Text": "RT @dragosr: DNS data exfiltration from sql injection https://t.co/1nQINr2lDi",
-            "ID": 823601580616404999,
-            "QuotedID": 0,
-            "RetweetedText": "DNS data exfiltration from sql injection https://t.co/1nQINr2lDi",
-            "RetweetedHandle": "dragosr",
-            "RetweetedName": "dragosr",
-            "Retweets": 28,
-            "Source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "UserHandle": "Xsimpa",
-            "UserName": "Xsimpa"
-        },
-        {
             "Text": "Vacature: SQL Developer Rosmalen SQL https://t.co/vexZyOC3p9 #den bosch #vacature #banen",
             "ID": 823612662231666688,
             "QuotedID": 0,
